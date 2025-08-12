@@ -70,14 +70,14 @@ ________________________________________
 2. Create Power BI dashboards for Earthquake insights
 ________________________________________
 ✅ Key Benefits
-•	Automation – No manual data pulling, fully orchestrated in ADF.
-•	Scalability – Handles large volumes of API data.
-•	Actionable Insights – Ready-to-use structured data for stakeholders.
+1. Automation – No manual data pulling, fully orchestrated in ADF.
+2. Scalability – Handles large volumes of API data.
+3. Actionable Insights – Ready-to-use structured data for stakeholders.
 ________________________________________
 📌 Notes
-•	Bronze: Multiple daily files saved.
-•	Silver: Single Parquet file appended daily.
-•	Gold: Only includes data for 1 day from start_date.
+1. Bronze: Multiple daily files saved.
+2. Silver: Single Parquet file appended daily.
+3. Gold: Only includes data for 1 day from start_date.
 ________________________________________
-Reference:
+## References:
 https://www.linkedin.com/in/lukejbyrne/ 
